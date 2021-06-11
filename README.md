@@ -2,7 +2,7 @@
 
 Todo List app created with EJS templates.
 
-Viewable @ https://tiki-stack.github.io/todolist/
+Viewable @ https://stormy-bayou-97784.herokuapp.com
 
 To see local version:
 1. Git Clone to local directory
